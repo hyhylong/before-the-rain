@@ -1,0 +1,41 @@
+{
+  "duration": 275,
+  "rawDuration": 374.24,
+  "playbackSpeed": 1.3608727272727272,
+  "audioSegments": 25,
+  "timeline": [
+    {
+      "seconds": 5,
+      "label": "开场：雨夜咖啡馆与中文语音"
+    },
+    {
+      "seconds": 40,
+      "label": "人物情绪：等待妹妹的约定"
+    },
+    {
+      "seconds": 68,
+      "label": "对话触发：举照片、快门与灯塔插画"
+    },
+    {
+      "seconds": 103,
+      "label": "成功打断：角色说话中立即停止，改聊新的话题"
+    },
+    {
+      "seconds": 140,
+      "label": "连续互动：热饮与陪伴"
+    },
+    {
+      "seconds": 196,
+      "label": "扩展：保留当前场景与会话诊断"
+    },
+    {
+      "seconds": 214,
+      "label": "失败与恢复：模拟断线，原内容重试"
+    },
+    {
+      "seconds": 259,
+      "label": "场景变化：雨停以后"
+    }
+  ],
+  "method": "Real browser recording; actual local audio and video soundtrack playback timestamps, offsets, volume and interruption positions. Uniform speed adjustment with pitch preserved when needed to stay within 3–5 minutes. No microphone recording."
+}

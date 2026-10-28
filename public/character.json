@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "identity": { "name": "Mira", "age": 26 },
+  "palette": { "skin": "#e7bca8", "hair": "#302b2a", "coat": "#d7a24f", "collar": "#efc883" },
+  "resources": { "photo": "/images/lighthouse.png", "memoryVideo": "/video/memory.webm", "rainVideo": "/video/rain.webm" },
+  "idle": { "breath": 0.009, "gaze": 0.035, "blinkSeconds": 3.6 },
+  "actions": {
+    "idle": { "priority": 0, "blendSeconds": 0.22, "pose": {} },
+    "nod": { "priority": 30, "blendSeconds": 0.20, "pose": { "headPitch": 0.025 } },
+    "lookAway": { "priority": 35, "blendSeconds": 0.32, "pose": { "headYaw": -0.34 } },
+    "showPhoto": { "priority": 60, "blendSeconds": 0.34, "pose": { "rightArmX": -1.08, "rightArmZ": -0.22, "elbowX": -1.07, "photo": true } },
+    "wave": { "priority": 50, "blendSeconds": 0.30, "pose": { "leftArmX": 0, "leftArmZ": -2.12 } },
+    "listening": { "priority": 100, "blendSeconds": 0.09, "pose": { "headPitch": -0.04, "headRoll": 0.075 } },
+    "thinking": { "priority": 90, "blendSeconds": 0.20, "pose": { "headYaw": -0.28 } }
+  }
+}

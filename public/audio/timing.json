@@ -1,0 +1,7514 @@
+{
+  "雨这么大，你也在等人吗？进来吧，咖啡还热着。": {
+    "durationMs": 5424,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 265.8823529411765,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 265.8823529411765,
+        "endMs": 531.764705882353,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 531.764705882353,
+        "endMs": 797.6470588235294,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 797.6470588235294,
+        "endMs": 1063.529411764706,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 1063.529411764706,
+        "endMs": 1223.0588235294117,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1223.0588235294117,
+        "endMs": 1488.9411764705883,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1488.9411764705883,
+        "endMs": 1754.8235294117649,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1754.8235294117649,
+        "endMs": 2020.7058823529412,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 2020.7058823529412,
+        "endMs": 2286.5882352941176,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2286.5882352941176,
+        "endMs": 2552.470588235294,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2552.470588235294,
+        "endMs": 2818.3529411764707,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2818.3529411764707,
+        "endMs": 2977.8823529411766,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2977.8823529411766,
+        "endMs": 3243.7647058823527,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3243.7647058823527,
+        "endMs": 3509.6470588235297,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3509.6470588235297,
+        "endMs": 3775.529411764706,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3775.529411764706,
+        "endMs": 3935.0588235294117,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3935.0588235294117,
+        "endMs": 4200.941176470588,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4200.941176470588,
+        "endMs": 4466.823529411765,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4466.823529411765,
+        "endMs": 4732.7058823529405,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4732.7058823529405,
+        "endMs": 4998.588235294117,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4998.588235294117,
+        "endMs": 5264.470588235294,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 5264.470588235294,
+        "endMs": 5424,
+        "shape": "closed"
+      }
+    ]
+  },
+  "晚上好。外面的雨还没有停，你也被留在这个夜晚里了吗？": {
+    "durationMs": 6000,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 241.93548387096774,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 241.93548387096774,
+        "endMs": 483.8709677419355,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 483.8709677419355,
+        "endMs": 725.8064516129032,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 725.8064516129032,
+        "endMs": 870.9677419354839,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 870.9677419354839,
+        "endMs": 1112.9032258064515,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1112.9032258064515,
+        "endMs": 1354.838709677419,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1354.838709677419,
+        "endMs": 1596.774193548387,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1596.774193548387,
+        "endMs": 1838.7096774193546,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1838.7096774193546,
+        "endMs": 2080.6451612903224,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2080.6451612903224,
+        "endMs": 2322.5806451612902,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2322.5806451612902,
+        "endMs": 2564.5161290322576,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2564.5161290322576,
+        "endMs": 2806.451612903226,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2806.451612903226,
+        "endMs": 2951.6129032258063,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2951.6129032258063,
+        "endMs": 3193.548387096774,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3193.548387096774,
+        "endMs": 3435.4838709677415,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3435.4838709677415,
+        "endMs": 3677.4193548387093,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3677.4193548387093,
+        "endMs": 3919.354838709677,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3919.354838709677,
+        "endMs": 4161.290322580645,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4161.290322580645,
+        "endMs": 4403.225806451613,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4403.225806451613,
+        "endMs": 4645.1612903225805,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4645.1612903225805,
+        "endMs": 4887.096774193548,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4887.096774193548,
+        "endMs": 5129.032258064515,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5129.032258064515,
+        "endMs": 5370.967741935484,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5370.967741935484,
+        "endMs": 5612.903225806452,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5612.903225806452,
+        "endMs": 5854.838709677419,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5854.838709677419,
+        "endMs": 6000,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我叫 Mira，是个旅行摄影师。二十六岁，还总是会忘记带伞。这个位置没人，你可以坐一会儿。": {
+    "durationMs": 9936,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 235.45023696682463,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 235.45023696682463,
+        "endMs": 470.90047393364927,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 470.90047393364927,
+        "endMs": 612.170616113744,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 612.170616113744,
+        "endMs": 847.6208530805686,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 847.6208530805686,
+        "endMs": 1083.0710900473932,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1083.0710900473932,
+        "endMs": 1318.5213270142178,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1318.5213270142178,
+        "endMs": 1553.9715639810424,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1553.9715639810424,
+        "endMs": 1695.2417061611372,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1695.2417061611372,
+        "endMs": 1930.6919431279618,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1930.6919431279618,
+        "endMs": 2166.1421800947865,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2166.1421800947865,
+        "endMs": 2401.5924170616113,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2401.5924170616113,
+        "endMs": 2637.0426540284357,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2637.0426540284357,
+        "endMs": 2872.4928909952605,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2872.4928909952605,
+        "endMs": 3107.943127962085,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3107.943127962085,
+        "endMs": 3343.3933649289097,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3343.3933649289097,
+        "endMs": 3484.6635071090045,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3484.6635071090045,
+        "endMs": 3720.1137440758284,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3720.1137440758284,
+        "endMs": 3955.563981042653,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 3955.563981042653,
+        "endMs": 4191.014218009478,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4191.014218009478,
+        "endMs": 4426.4644549763025,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4426.4644549763025,
+        "endMs": 4567.734597156397,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4567.734597156397,
+        "endMs": 4803.184834123223,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4803.184834123223,
+        "endMs": 5038.635071090046,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5038.635071090046,
+        "endMs": 5274.085308056871,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5274.085308056871,
+        "endMs": 5509.535545023697,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5509.535545023697,
+        "endMs": 5744.985781990521,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5744.985781990521,
+        "endMs": 5980.4360189573445,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 5980.4360189573445,
+        "endMs": 6215.88625592417,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6215.88625592417,
+        "endMs": 6451.336492890995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6451.336492890995,
+        "endMs": 6592.60663507109,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6592.60663507109,
+        "endMs": 6828.056872037914,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6828.056872037914,
+        "endMs": 7063.507109004739,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7063.507109004739,
+        "endMs": 7298.957345971563,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7298.957345971563,
+        "endMs": 7534.407582938388,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7534.407582938388,
+        "endMs": 7769.857819905213,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7769.857819905213,
+        "endMs": 8005.308056872038,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8005.308056872038,
+        "endMs": 8146.578199052133,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8146.578199052133,
+        "endMs": 8382.028436018956,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8382.028436018956,
+        "endMs": 8617.478672985782,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 8617.478672985782,
+        "endMs": 8852.928909952607,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 8852.928909952607,
+        "endMs": 9088.379146919431,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 41,
+        "startMs": 9088.379146919431,
+        "endMs": 9323.829383886256,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 42,
+        "startMs": 9323.829383886256,
+        "endMs": 9559.27962085308,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 43,
+        "startMs": 9559.27962085308,
+        "endMs": 9794.729857819904,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 44,
+        "startMs": 9794.729857819904,
+        "endMs": 9936,
+        "shape": "closed"
+      }
+    ]
+  },
+  "咖啡馆快打烊了，不过老板说，雨太大的时候，可以让最后一盏灯多亮一会儿。": {
+    "durationMs": 7464,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 223.47305389221557,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 223.47305389221557,
+        "endMs": 446.94610778443115,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 446.94610778443115,
+        "endMs": 670.4191616766467,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 670.4191616766467,
+        "endMs": 893.8922155688623,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 893.8922155688623,
+        "endMs": 1117.365269461078,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1117.365269461078,
+        "endMs": 1340.8383233532934,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1340.8383233532934,
+        "endMs": 1564.311377245509,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1564.311377245509,
+        "endMs": 1698.3952095808384,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1698.3952095808384,
+        "endMs": 1921.8682634730537,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1921.8682634730537,
+        "endMs": 2145.3413173652693,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2145.3413173652693,
+        "endMs": 2368.814371257485,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2368.814371257485,
+        "endMs": 2592.2874251497005,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2592.2874251497005,
+        "endMs": 2815.7604790419164,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2815.7604790419164,
+        "endMs": 2949.8443113772455,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 2949.8443113772455,
+        "endMs": 3173.3173652694613,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3173.3173652694613,
+        "endMs": 3396.7904191616767,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3396.7904191616767,
+        "endMs": 3620.263473053892,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3620.263473053892,
+        "endMs": 3843.7365269461075,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 3843.7365269461075,
+        "endMs": 4067.2095808383233,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4067.2095808383233,
+        "endMs": 4290.682634730539,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4290.682634730539,
+        "endMs": 4424.766467065869,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4424.766467065869,
+        "endMs": 4648.239520958084,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4648.239520958084,
+        "endMs": 4871.7125748502995,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 4871.7125748502995,
+        "endMs": 5095.185628742515,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5095.185628742515,
+        "endMs": 5318.658682634731,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5318.658682634731,
+        "endMs": 5542.131736526947,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5542.131736526947,
+        "endMs": 5765.604790419163,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 5765.604790419163,
+        "endMs": 5989.077844311378,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 5989.077844311378,
+        "endMs": 6212.550898203593,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6212.550898203593,
+        "endMs": 6436.023952095808,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6436.023952095808,
+        "endMs": 6659.497005988024,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6659.497005988024,
+        "endMs": 6882.97005988024,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 6882.97005988024,
+        "endMs": 7106.443113772456,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7106.443113772456,
+        "endMs": 7329.916167664671,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7329.916167664671,
+        "endMs": 7464,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你注意到我的相机了？那我给你看一张一直放在雨衣口袋里的照片。": {
+    "durationMs": 6720,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 230.13698630136986,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 230.13698630136986,
+        "endMs": 460.2739726027397,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 460.2739726027397,
+        "endMs": 690.4109589041095,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 690.4109589041095,
+        "endMs": 920.5479452054794,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 920.5479452054794,
+        "endMs": 1150.6849315068494,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1150.6849315068494,
+        "endMs": 1380.821917808219,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1380.821917808219,
+        "endMs": 1610.958904109589,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1610.958904109589,
+        "endMs": 1841.0958904109589,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1841.0958904109589,
+        "endMs": 2071.2328767123286,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2071.2328767123286,
+        "endMs": 2209.3150684931506,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2209.3150684931506,
+        "endMs": 2439.4520547945203,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2439.4520547945203,
+        "endMs": 2669.58904109589,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2669.58904109589,
+        "endMs": 2899.7260273972597,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2899.7260273972597,
+        "endMs": 3129.8630136986294,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3129.8630136986294,
+        "endMs": 3359.9999999999995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3359.9999999999995,
+        "endMs": 3590.1369863013692,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3590.1369863013692,
+        "endMs": 3820.2739726027394,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3820.2739726027394,
+        "endMs": 4050.4109589041095,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4050.4109589041095,
+        "endMs": 4280.54794520548,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4280.54794520548,
+        "endMs": 4510.684931506849,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4510.684931506849,
+        "endMs": 4740.821917808219,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4740.821917808219,
+        "endMs": 4970.958904109589,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4970.958904109589,
+        "endMs": 5201.095890410958,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5201.095890410958,
+        "endMs": 5431.232876712329,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5431.232876712329,
+        "endMs": 5661.369863013698,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5661.369863013698,
+        "endMs": 5891.506849315068,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5891.506849315068,
+        "endMs": 6121.643835616438,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6121.643835616438,
+        "endMs": 6351.780821917809,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6351.780821917809,
+        "endMs": 6581.9178082191775,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6581.9178082191775,
+        "endMs": 6720,
+        "shape": "closed"
+      }
+    ]
+  },
+  "这是海边的一座灯塔。我和妹妹凌晨四点爬上山，等了很久，云才让出这么一点空隙。": {
+    "durationMs": 8856,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 243.29670329670327,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 243.29670329670327,
+        "endMs": 486.59340659340654,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 486.59340659340654,
+        "endMs": 729.8901098901098,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 729.8901098901098,
+        "endMs": 973.1868131868131,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 973.1868131868131,
+        "endMs": 1216.4835164835163,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1216.4835164835163,
+        "endMs": 1459.7802197802196,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1459.7802197802196,
+        "endMs": 1703.0769230769229,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1703.0769230769229,
+        "endMs": 1946.3736263736262,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1946.3736263736262,
+        "endMs": 2189.6703296703295,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2189.6703296703295,
+        "endMs": 2335.6483516483513,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2335.6483516483513,
+        "endMs": 2578.945054945055,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2578.945054945055,
+        "endMs": 2822.2417582417575,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2822.2417582417575,
+        "endMs": 3065.538461538461,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3065.538461538461,
+        "endMs": 3308.8351648351645,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3308.8351648351645,
+        "endMs": 3552.131868131867,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3552.131868131867,
+        "endMs": 3795.4285714285706,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3795.4285714285706,
+        "endMs": 4038.7252747252746,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4038.7252747252746,
+        "endMs": 4282.021978021978,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4282.021978021978,
+        "endMs": 4525.318681318681,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4525.318681318681,
+        "endMs": 4768.615384615385,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4768.615384615385,
+        "endMs": 5011.912087912087,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 5011.912087912087,
+        "endMs": 5157.890109890111,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5157.890109890111,
+        "endMs": 5401.186813186812,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5401.186813186812,
+        "endMs": 5644.483516483516,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5644.483516483516,
+        "endMs": 5887.780219780219,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5887.780219780219,
+        "endMs": 6131.076923076923,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6131.076923076923,
+        "endMs": 6277.054945054945,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6277.054945054945,
+        "endMs": 6520.351648351649,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6520.351648351649,
+        "endMs": 6763.648351648351,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6763.648351648351,
+        "endMs": 7006.945054945055,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7006.945054945055,
+        "endMs": 7250.241758241758,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7250.241758241758,
+        "endMs": 7493.538461538462,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7493.538461538462,
+        "endMs": 7736.8351648351645,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7736.8351648351645,
+        "endMs": 7980.131868131868,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7980.131868131868,
+        "endMs": 8223.42857142857,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8223.42857142857,
+        "endMs": 8466.725274725273,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8466.725274725273,
+        "endMs": 8710.021978021978,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8710.021978021978,
+        "endMs": 8856,
+        "shape": "closed"
+      }
+    ]
+  },
+  "那时候她说，照片最珍贵的地方，是能证明有人陪你一起等过。你也有舍不得删掉的照片吗？": {
+    "durationMs": 9552,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 242.43654822335026,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 242.43654822335026,
+        "endMs": 484.8730964467005,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 484.8730964467005,
+        "endMs": 727.3096446700508,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 727.3096446700508,
+        "endMs": 969.746192893401,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 969.746192893401,
+        "endMs": 1212.1827411167512,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1212.1827411167512,
+        "endMs": 1357.6446700507615,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1357.6446700507615,
+        "endMs": 1600.0812182741117,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1600.0812182741117,
+        "endMs": 1842.517766497462,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1842.517766497462,
+        "endMs": 2084.954314720812,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2084.954314720812,
+        "endMs": 2327.3908629441626,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2327.3908629441626,
+        "endMs": 2569.8274111675123,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2569.8274111675123,
+        "endMs": 2812.263959390863,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2812.263959390863,
+        "endMs": 3054.700507614213,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3054.700507614213,
+        "endMs": 3297.1370558375634,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3297.1370558375634,
+        "endMs": 3442.598984771573,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3442.598984771573,
+        "endMs": 3685.035532994924,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3685.035532994924,
+        "endMs": 3927.472081218274,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3927.472081218274,
+        "endMs": 4169.908629441624,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4169.908629441624,
+        "endMs": 4412.3451776649745,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4412.3451776649745,
+        "endMs": 4654.781725888325,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4654.781725888325,
+        "endMs": 4897.218274111675,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4897.218274111675,
+        "endMs": 5139.654822335025,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5139.654822335025,
+        "endMs": 5382.091370558376,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5382.091370558376,
+        "endMs": 5624.527918781726,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5624.527918781726,
+        "endMs": 5866.964467005076,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5866.964467005076,
+        "endMs": 6109.401015228426,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6109.401015228426,
+        "endMs": 6351.837563451777,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6351.837563451777,
+        "endMs": 6497.299492385787,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6497.299492385787,
+        "endMs": 6739.7360406091375,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6739.7360406091375,
+        "endMs": 6982.172588832488,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6982.172588832488,
+        "endMs": 7224.609137055838,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7224.609137055838,
+        "endMs": 7467.045685279188,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7467.045685279188,
+        "endMs": 7709.482233502539,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7709.482233502539,
+        "endMs": 7951.918781725888,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7951.918781725888,
+        "endMs": 8194.355329949238,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8194.355329949238,
+        "endMs": 8436.79187817259,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8436.79187817259,
+        "endMs": 8679.22842639594,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8679.22842639594,
+        "endMs": 8921.664974619289,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8921.664974619289,
+        "endMs": 9164.101522842639,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 9164.101522842639,
+        "endMs": 9406.53807106599,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 9406.53807106599,
+        "endMs": 9552,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你还记得这张照片。这里没有地名，只有我们当时等到的第一缕光。": {
+    "durationMs": 7008,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 243.33333333333334,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 243.33333333333334,
+        "endMs": 486.6666666666667,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 486.6666666666667,
+        "endMs": 729.9999999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 729.9999999999999,
+        "endMs": 973.3333333333334,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 973.3333333333334,
+        "endMs": 1216.6666666666665,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1216.6666666666665,
+        "endMs": 1459.9999999999998,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1459.9999999999998,
+        "endMs": 1703.3333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1703.3333333333333,
+        "endMs": 1946.6666666666667,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1946.6666666666667,
+        "endMs": 2092.6666666666665,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2092.6666666666665,
+        "endMs": 2336,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2336,
+        "endMs": 2579.333333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2579.333333333333,
+        "endMs": 2822.6666666666665,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2822.6666666666665,
+        "endMs": 3066,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3066,
+        "endMs": 3309.333333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3309.333333333333,
+        "endMs": 3552.6666666666665,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3552.6666666666665,
+        "endMs": 3698.666666666667,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3698.666666666667,
+        "endMs": 3942,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3942,
+        "endMs": 4185.333333333333,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4185.333333333333,
+        "endMs": 4428.666666666666,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4428.666666666666,
+        "endMs": 4672,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4672,
+        "endMs": 4915.333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4915.333333333333,
+        "endMs": 5158.666666666666,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5158.666666666666,
+        "endMs": 5401.999999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5401.999999999999,
+        "endMs": 5645.333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5645.333333333333,
+        "endMs": 5888.666666666666,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5888.666666666666,
+        "endMs": 6132,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6132,
+        "endMs": 6375.333333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6375.333333333333,
+        "endMs": 6618.666666666666,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6618.666666666666,
+        "endMs": 6862,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6862,
+        "endMs": 7008,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我在等我妹妹。每年这个时候，我们都会来这里，交换这一年最喜欢的一张照片。": {
+    "durationMs": 8184,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 237.90697674418604,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 237.90697674418604,
+        "endMs": 475.8139534883721,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 475.8139534883721,
+        "endMs": 713.7209302325582,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 713.7209302325582,
+        "endMs": 951.6279069767442,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 951.6279069767442,
+        "endMs": 1189.5348837209303,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1189.5348837209303,
+        "endMs": 1427.4418604651164,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1427.4418604651164,
+        "endMs": 1570.1860465116279,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1570.1860465116279,
+        "endMs": 1808.093023255814,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1808.093023255814,
+        "endMs": 2046,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2046,
+        "endMs": 2283.906976744186,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2283.906976744186,
+        "endMs": 2521.813953488372,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2521.813953488372,
+        "endMs": 2759.720930232558,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2759.720930232558,
+        "endMs": 2997.6279069767443,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2997.6279069767443,
+        "endMs": 3140.3720930232557,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3140.3720930232557,
+        "endMs": 3378.279069767442,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3378.279069767442,
+        "endMs": 3616.186046511628,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3616.186046511628,
+        "endMs": 3854.093023255814,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3854.093023255814,
+        "endMs": 4092,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4092,
+        "endMs": 4329.906976744186,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4329.906976744186,
+        "endMs": 4567.813953488372,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4567.813953488372,
+        "endMs": 4805.720930232558,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4805.720930232558,
+        "endMs": 4948.465116279071,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4948.465116279071,
+        "endMs": 5186.372093023256,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5186.372093023256,
+        "endMs": 5424.279069767443,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5424.279069767443,
+        "endMs": 5662.186046511628,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5662.186046511628,
+        "endMs": 5900.093023255815,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5900.093023255815,
+        "endMs": 6138,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6138,
+        "endMs": 6375.906976744186,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6375.906976744186,
+        "endMs": 6613.813953488373,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6613.813953488373,
+        "endMs": 6851.720930232558,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6851.720930232558,
+        "endMs": 7089.627906976745,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7089.627906976745,
+        "endMs": 7327.53488372093,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7327.53488372093,
+        "endMs": 7565.441860465117,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7565.441860465117,
+        "endMs": 7803.348837209302,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7803.348837209302,
+        "endMs": 8041.2558139534885,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8041.2558139534885,
+        "endMs": 8184,
+        "shape": "closed"
+      }
+    ]
+  },
+  "她今年搬去了很远的城市，临时的工作没做完。其实她下午就告诉我，今天赶不回来了。": {
+    "durationMs": 8736,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 233.5828877005347,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 233.5828877005347,
+        "endMs": 467.1657754010694,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 467.1657754010694,
+        "endMs": 700.7486631016042,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 700.7486631016042,
+        "endMs": 934.3315508021388,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 934.3315508021388,
+        "endMs": 1167.9144385026736,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1167.9144385026736,
+        "endMs": 1401.4973262032083,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1401.4973262032083,
+        "endMs": 1635.080213903743,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1635.080213903743,
+        "endMs": 1868.6631016042777,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1868.6631016042777,
+        "endMs": 2102.2459893048126,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2102.2459893048126,
+        "endMs": 2335.8288770053473,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2335.8288770053473,
+        "endMs": 2569.411764705882,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2569.411764705882,
+        "endMs": 2709.5614973262027,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2709.5614973262027,
+        "endMs": 2943.1443850267374,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2943.1443850267374,
+        "endMs": 3176.7272727272725,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3176.7272727272725,
+        "endMs": 3410.310160427807,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3410.310160427807,
+        "endMs": 3643.893048128342,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3643.893048128342,
+        "endMs": 3877.475935828877,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3877.475935828877,
+        "endMs": 4111.058823529412,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4111.058823529412,
+        "endMs": 4344.641711229947,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4344.641711229947,
+        "endMs": 4578.224598930481,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4578.224598930481,
+        "endMs": 4718.374331550803,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4718.374331550803,
+        "endMs": 4951.957219251337,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4951.957219251337,
+        "endMs": 5185.540106951872,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5185.540106951872,
+        "endMs": 5419.122994652406,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5419.122994652406,
+        "endMs": 5652.705882352941,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5652.705882352941,
+        "endMs": 5886.288770053477,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5886.288770053477,
+        "endMs": 6119.871657754011,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6119.871657754011,
+        "endMs": 6353.454545454546,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6353.454545454546,
+        "endMs": 6587.03743315508,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6587.03743315508,
+        "endMs": 6820.620320855615,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6820.620320855615,
+        "endMs": 6960.770053475935,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6960.770053475935,
+        "endMs": 7194.35294117647,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7194.35294117647,
+        "endMs": 7427.935828877005,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7427.935828877005,
+        "endMs": 7661.51871657754,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7661.51871657754,
+        "endMs": 7895.101604278075,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7895.101604278075,
+        "endMs": 8128.684491978609,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8128.684491978609,
+        "endMs": 8362.267379679144,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8362.267379679144,
+        "endMs": 8595.85026737968,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8595.85026737968,
+        "endMs": 8736,
+        "shape": "closed"
+      }
+    ]
+  },
+  "可我还是来了。大概有些约定，就算只有一个人到场，也想替两个人好好记住。": {
+    "durationMs": 7968,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 238.562874251497,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 238.562874251497,
+        "endMs": 477.125748502994,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 477.125748502994,
+        "endMs": 715.688622754491,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 715.688622754491,
+        "endMs": 954.251497005988,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 954.251497005988,
+        "endMs": 1192.8143712574852,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1192.8143712574852,
+        "endMs": 1431.377245508982,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1431.377245508982,
+        "endMs": 1574.5149700598802,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1574.5149700598802,
+        "endMs": 1813.0778443113772,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1813.0778443113772,
+        "endMs": 2051.640718562874,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2051.640718562874,
+        "endMs": 2290.203592814371,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2290.203592814371,
+        "endMs": 2528.7664670658683,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2528.7664670658683,
+        "endMs": 2767.3293413173656,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2767.3293413173656,
+        "endMs": 3005.8922155688624,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3005.8922155688624,
+        "endMs": 3149.0299401197603,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3149.0299401197603,
+        "endMs": 3387.5928143712576,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3387.5928143712576,
+        "endMs": 3626.1556886227545,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3626.1556886227545,
+        "endMs": 3864.7185628742513,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3864.7185628742513,
+        "endMs": 4103.281437125748,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4103.281437125748,
+        "endMs": 4341.8443113772455,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4341.8443113772455,
+        "endMs": 4580.407185628742,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4580.407185628742,
+        "endMs": 4818.970059880239,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4818.970059880239,
+        "endMs": 5057.5329341317365,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5057.5329341317365,
+        "endMs": 5296.095808383234,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5296.095808383234,
+        "endMs": 5439.233532934132,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5439.233532934132,
+        "endMs": 5677.7964071856295,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5677.7964071856295,
+        "endMs": 5916.359281437127,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5916.359281437127,
+        "endMs": 6154.922155688623,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6154.922155688623,
+        "endMs": 6393.4850299401205,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6393.4850299401205,
+        "endMs": 6632.047904191617,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6632.047904191617,
+        "endMs": 6870.610778443114,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6870.610778443114,
+        "endMs": 7109.1736526946115,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7109.1736526946115,
+        "endMs": 7347.736526946108,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7347.736526946108,
+        "endMs": 7586.299401197605,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7586.299401197605,
+        "endMs": 7824.862275449102,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7824.862275449102,
+        "endMs": 7968,
+        "shape": "closed"
+      }
+    ]
+  },
+  "刚才我给她发了一条消息，说今年的咖啡还是有一点苦，窗边的位置也还在。": {
+    "durationMs": 7944,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 242.19512195121948,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 242.19512195121948,
+        "endMs": 484.39024390243895,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 484.39024390243895,
+        "endMs": 726.5853658536585,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 726.5853658536585,
+        "endMs": 968.7804878048779,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 968.7804878048779,
+        "endMs": 1210.9756097560974,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1210.9756097560974,
+        "endMs": 1453.170731707317,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1453.170731707317,
+        "endMs": 1695.3658536585363,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1695.3658536585363,
+        "endMs": 1937.5609756097558,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1937.5609756097558,
+        "endMs": 2179.7560975609754,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2179.7560975609754,
+        "endMs": 2421.9512195121947,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2421.9512195121947,
+        "endMs": 2664.1463414634145,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2664.1463414634145,
+        "endMs": 2809.463414634146,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2809.463414634146,
+        "endMs": 3051.6585365853653,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3051.6585365853653,
+        "endMs": 3293.8536585365846,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3293.8536585365846,
+        "endMs": 3536.0487804878044,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3536.0487804878044,
+        "endMs": 3778.2439024390237,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3778.2439024390237,
+        "endMs": 4020.439024390244,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4020.439024390244,
+        "endMs": 4262.634146341463,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4262.634146341463,
+        "endMs": 4504.829268292682,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4504.829268292682,
+        "endMs": 4747.024390243902,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4747.024390243902,
+        "endMs": 4989.219512195122,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4989.219512195122,
+        "endMs": 5231.414634146341,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5231.414634146341,
+        "endMs": 5473.60975609756,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5473.60975609756,
+        "endMs": 5715.804878048781,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5715.804878048781,
+        "endMs": 5861.121951219512,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5861.121951219512,
+        "endMs": 6103.317073170731,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6103.317073170731,
+        "endMs": 6345.512195121951,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6345.512195121951,
+        "endMs": 6587.70731707317,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6587.70731707317,
+        "endMs": 6829.90243902439,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6829.90243902439,
+        "endMs": 7072.09756097561,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7072.09756097561,
+        "endMs": 7314.292682926829,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7314.292682926829,
+        "endMs": 7556.487804878048,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7556.487804878048,
+        "endMs": 7798.682926829269,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7798.682926829269,
+        "endMs": 7944,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我没有催她回来。以前我总觉得，距离会把约定冲淡；今晚倒觉得，记得这件事就已经很好了。": {
+    "durationMs": 9792,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 244.79999999999995,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 244.79999999999995,
+        "endMs": 489.5999999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 489.5999999999999,
+        "endMs": 734.3999999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 734.3999999999999,
+        "endMs": 979.1999999999998,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 979.1999999999998,
+        "endMs": 1223.9999999999998,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1223.9999999999998,
+        "endMs": 1468.7999999999997,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1468.7999999999997,
+        "endMs": 1713.5999999999997,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1713.5999999999997,
+        "endMs": 1860.4799999999996,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1860.4799999999996,
+        "endMs": 2105.2799999999993,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2105.2799999999993,
+        "endMs": 2350.0799999999995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2350.0799999999995,
+        "endMs": 2594.8799999999997,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2594.8799999999997,
+        "endMs": 2839.6799999999994,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2839.6799999999994,
+        "endMs": 3084.4799999999996,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3084.4799999999996,
+        "endMs": 3329.2799999999993,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3329.2799999999993,
+        "endMs": 3476.1599999999994,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3476.1599999999994,
+        "endMs": 3720.959999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3720.959999999999,
+        "endMs": 3965.7599999999993,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3965.7599999999993,
+        "endMs": 4210.559999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4210.559999999999,
+        "endMs": 4455.359999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4455.359999999999,
+        "endMs": 4700.159999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4700.159999999999,
+        "endMs": 4944.959999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4944.959999999999,
+        "endMs": 5189.759999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5189.759999999999,
+        "endMs": 5434.5599999999995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5434.5599999999995,
+        "endMs": 5581.44,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5581.44,
+        "endMs": 5826.239999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5826.239999999999,
+        "endMs": 6071.039999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6071.039999999999,
+        "endMs": 6315.839999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6315.839999999999,
+        "endMs": 6560.639999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6560.639999999999,
+        "endMs": 6805.439999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6805.439999999999,
+        "endMs": 6952.32,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6952.32,
+        "endMs": 7197.119999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7197.119999999999,
+        "endMs": 7441.919999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7441.919999999999,
+        "endMs": 7686.719999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7686.719999999999,
+        "endMs": 7931.52,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7931.52,
+        "endMs": 8176.32,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8176.32,
+        "endMs": 8421.119999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8421.119999999999,
+        "endMs": 8665.92,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8665.92,
+        "endMs": 8910.720000000001,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8910.720000000001,
+        "endMs": 9155.519999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 9155.519999999999,
+        "endMs": 9400.32,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 9400.32,
+        "endMs": 9645.119999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 41,
+        "startMs": 9645.119999999999,
+        "endMs": 9792,
+        "shape": "closed"
+      }
+    ]
+  },
+  "谢谢你愿意听我说这些。能在这样的雨夜遇到一个肯坐下来的人，也算一种很小的好运。": {
+    "durationMs": 8544,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 226.03174603174602,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 226.03174603174602,
+        "endMs": 452.06349206349205,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 452.06349206349205,
+        "endMs": 678.0952380952381,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 678.0952380952381,
+        "endMs": 904.1269841269841,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 904.1269841269841,
+        "endMs": 1130.1587301587301,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1130.1587301587301,
+        "endMs": 1356.1904761904761,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1356.1904761904761,
+        "endMs": 1582.2222222222222,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1582.2222222222222,
+        "endMs": 1808.2539682539682,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1808.2539682539682,
+        "endMs": 2034.2857142857142,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2034.2857142857142,
+        "endMs": 2260.3174603174602,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2260.3174603174602,
+        "endMs": 2395.936507936508,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2395.936507936508,
+        "endMs": 2621.968253968254,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2621.968253968254,
+        "endMs": 2847.9999999999995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2847.9999999999995,
+        "endMs": 3074.0317460317456,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3074.0317460317456,
+        "endMs": 3300.0634920634916,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3300.0634920634916,
+        "endMs": 3526.0952380952376,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3526.0952380952376,
+        "endMs": 3752.126984126984,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3752.126984126984,
+        "endMs": 3978.15873015873,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 3978.15873015873,
+        "endMs": 4204.190476190476,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4204.190476190476,
+        "endMs": 4430.222222222222,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4430.222222222222,
+        "endMs": 4656.253968253968,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4656.253968253968,
+        "endMs": 4882.285714285714,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4882.285714285714,
+        "endMs": 5108.31746031746,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5108.31746031746,
+        "endMs": 5334.349206349206,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5334.349206349206,
+        "endMs": 5560.380952380952,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5560.380952380952,
+        "endMs": 5786.412698412698,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5786.412698412698,
+        "endMs": 6012.444444444443,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6012.444444444443,
+        "endMs": 6238.47619047619,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6238.47619047619,
+        "endMs": 6374.0952380952385,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6374.0952380952385,
+        "endMs": 6600.126984126984,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6600.126984126984,
+        "endMs": 6826.158730158731,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6826.158730158731,
+        "endMs": 7052.190476190476,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7052.190476190476,
+        "endMs": 7278.222222222223,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7278.222222222223,
+        "endMs": 7504.253968253968,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7504.253968253968,
+        "endMs": 7730.285714285715,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7730.285714285715,
+        "endMs": 7956.31746031746,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 7956.31746031746,
+        "endMs": 8182.349206349207,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8182.349206349207,
+        "endMs": 8408.380952380952,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8408.380952380952,
+        "endMs": 8544,
+        "shape": "closed"
+      }
+    ]
+  },
+  "来一点热的吧。老板刚说这是今晚最后一壶，喝完我们就真的得把椅子让给打烊的人了。": {
+    "durationMs": 8736,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 231.1111111111111,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 231.1111111111111,
+        "endMs": 462.2222222222222,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 462.2222222222222,
+        "endMs": 693.3333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 693.3333333333333,
+        "endMs": 924.4444444444443,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 924.4444444444443,
+        "endMs": 1155.5555555555554,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1155.5555555555554,
+        "endMs": 1386.6666666666665,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1386.6666666666665,
+        "endMs": 1525.333333333333,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1525.333333333333,
+        "endMs": 1756.4444444444441,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1756.4444444444441,
+        "endMs": 1987.5555555555552,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1987.5555555555552,
+        "endMs": 2218.6666666666665,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2218.6666666666665,
+        "endMs": 2449.777777777778,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2449.777777777778,
+        "endMs": 2680.8888888888887,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2680.8888888888887,
+        "endMs": 2911.9999999999995,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2911.9999999999995,
+        "endMs": 3143.1111111111104,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3143.1111111111104,
+        "endMs": 3374.2222222222217,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3374.2222222222217,
+        "endMs": 3605.3333333333326,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3605.3333333333326,
+        "endMs": 3836.4444444444443,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3836.4444444444443,
+        "endMs": 4067.555555555555,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4067.555555555555,
+        "endMs": 4298.666666666666,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4298.666666666666,
+        "endMs": 4437.333333333333,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4437.333333333333,
+        "endMs": 4668.444444444444,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4668.444444444444,
+        "endMs": 4899.555555555556,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4899.555555555556,
+        "endMs": 5130.666666666667,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5130.666666666667,
+        "endMs": 5361.777777777777,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5361.777777777777,
+        "endMs": 5592.888888888889,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5592.888888888889,
+        "endMs": 5824,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5824,
+        "endMs": 6055.111111111111,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6055.111111111111,
+        "endMs": 6286.222222222222,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6286.222222222222,
+        "endMs": 6517.333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6517.333333333333,
+        "endMs": 6748.444444444444,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6748.444444444444,
+        "endMs": 6979.555555555556,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6979.555555555556,
+        "endMs": 7210.666666666666,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7210.666666666666,
+        "endMs": 7441.777777777778,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7441.777777777778,
+        "endMs": 7672.888888888889,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7672.888888888889,
+        "endMs": 7904,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7904,
+        "endMs": 8135.11111111111,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8135.11111111111,
+        "endMs": 8366.222222222223,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8366.222222222223,
+        "endMs": 8597.333333333332,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8597.333333333332,
+        "endMs": 8736,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我喜欢捧着杯子的感觉。拍照时手指总是很冷，回到这种有灯、有热气的地方，才觉得一天结束了。": {
+    "durationMs": 10272,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 244.57142857142853,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 244.57142857142853,
+        "endMs": 489.14285714285705,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 489.14285714285705,
+        "endMs": 733.7142857142856,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 733.7142857142856,
+        "endMs": 978.2857142857141,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 978.2857142857141,
+        "endMs": 1222.8571428571427,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1222.8571428571427,
+        "endMs": 1467.428571428571,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1467.428571428571,
+        "endMs": 1711.9999999999995,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1711.9999999999995,
+        "endMs": 1956.5714285714282,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1956.5714285714282,
+        "endMs": 2201.142857142857,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2201.142857142857,
+        "endMs": 2445.7142857142853,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2445.7142857142853,
+        "endMs": 2592.457142857142,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2592.457142857142,
+        "endMs": 2837.028571428571,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2837.028571428571,
+        "endMs": 3081.5999999999995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3081.5999999999995,
+        "endMs": 3326.1714285714284,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3326.1714285714284,
+        "endMs": 3570.7428571428563,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3570.7428571428563,
+        "endMs": 3815.314285714285,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3815.314285714285,
+        "endMs": 4059.885714285714,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4059.885714285714,
+        "endMs": 4304.457142857143,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4304.457142857143,
+        "endMs": 4549.028571428571,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4549.028571428571,
+        "endMs": 4793.599999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4793.599999999999,
+        "endMs": 4940.342857142858,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4940.342857142858,
+        "endMs": 5184.914285714285,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5184.914285714285,
+        "endMs": 5429.4857142857145,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5429.4857142857145,
+        "endMs": 5674.057142857142,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5674.057142857142,
+        "endMs": 5918.628571428571,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5918.628571428571,
+        "endMs": 6163.2,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6163.2,
+        "endMs": 6407.771428571428,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6407.771428571428,
+        "endMs": 6554.5142857142855,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6554.5142857142855,
+        "endMs": 6799.085714285714,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6799.085714285714,
+        "endMs": 7043.657142857143,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7043.657142857143,
+        "endMs": 7288.228571428572,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7288.228571428572,
+        "endMs": 7532.799999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7532.799999999999,
+        "endMs": 7777.371428571429,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7777.371428571429,
+        "endMs": 8021.942857142857,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 8021.942857142857,
+        "endMs": 8168.685714285713,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8168.685714285713,
+        "endMs": 8413.257142857143,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8413.257142857143,
+        "endMs": 8657.828571428572,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8657.828571428572,
+        "endMs": 8902.4,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8902.4,
+        "endMs": 9146.971428571427,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 9146.971428571427,
+        "endMs": 9391.542857142857,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 9391.542857142857,
+        "endMs": 9636.114285714286,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 41,
+        "startMs": 9636.114285714286,
+        "endMs": 9880.685714285715,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 42,
+        "startMs": 9880.685714285715,
+        "endMs": 10125.257142857143,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 43,
+        "startMs": 10125.257142857143,
+        "endMs": 10272,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你的这一天呢？是刚好路过这里，还是也想找个地方，暂时躲开一点什么？": {
+    "durationMs": 7536,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 240,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 240,
+        "endMs": 480,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 480,
+        "endMs": 720,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 720,
+        "endMs": 960,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 960,
+        "endMs": 1200,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1200,
+        "endMs": 1440,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1440,
+        "endMs": 1583.9999999999998,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1583.9999999999998,
+        "endMs": 1823.9999999999998,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1823.9999999999998,
+        "endMs": 2064,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2064,
+        "endMs": 2304,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2304,
+        "endMs": 2544,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2544,
+        "endMs": 2784,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2784,
+        "endMs": 3023.9999999999995,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3023.9999999999995,
+        "endMs": 3263.9999999999995,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3263.9999999999995,
+        "endMs": 3407.9999999999995,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3407.9999999999995,
+        "endMs": 3647.9999999999995,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3647.9999999999995,
+        "endMs": 3888,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3888,
+        "endMs": 4128,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4128,
+        "endMs": 4368,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4368,
+        "endMs": 4608,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4608,
+        "endMs": 4848,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4848,
+        "endMs": 5088,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5088,
+        "endMs": 5328,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5328,
+        "endMs": 5472,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5472,
+        "endMs": 5712,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5712,
+        "endMs": 5951.999999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5951.999999999999,
+        "endMs": 6191.999999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6191.999999999999,
+        "endMs": 6431.999999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6431.999999999999,
+        "endMs": 6671.999999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6671.999999999999,
+        "endMs": 6911.999999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6911.999999999999,
+        "endMs": 7152,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7152,
+        "endMs": 7392,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7392,
+        "endMs": 7536,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你说得对。其实我可以告诉她，今天的约定并没有因为她没来就作废。": {
+    "durationMs": 7176,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 240.80536912751677,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 240.80536912751677,
+        "endMs": 481.61073825503354,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 481.61073825503354,
+        "endMs": 722.4161073825503,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 722.4161073825503,
+        "endMs": 963.2214765100671,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 963.2214765100671,
+        "endMs": 1107.704697986577,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1107.704697986577,
+        "endMs": 1348.5100671140938,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1348.5100671140938,
+        "endMs": 1589.3154362416105,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1589.3154362416105,
+        "endMs": 1830.1208053691273,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1830.1208053691273,
+        "endMs": 2070.9261744966443,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2070.9261744966443,
+        "endMs": 2311.731543624161,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2311.731543624161,
+        "endMs": 2552.536912751678,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2552.536912751678,
+        "endMs": 2793.3422818791946,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2793.3422818791946,
+        "endMs": 3034.1476510067114,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3034.1476510067114,
+        "endMs": 3178.630872483221,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3178.630872483221,
+        "endMs": 3419.4362416107383,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3419.4362416107383,
+        "endMs": 3660.2416107382546,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3660.2416107382546,
+        "endMs": 3901.046979865772,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3901.046979865772,
+        "endMs": 4141.852348993289,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4141.852348993289,
+        "endMs": 4382.657718120806,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4382.657718120806,
+        "endMs": 4623.463087248322,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4623.463087248322,
+        "endMs": 4864.2684563758385,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4864.2684563758385,
+        "endMs": 5105.073825503356,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5105.073825503356,
+        "endMs": 5345.879194630872,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5345.879194630872,
+        "endMs": 5586.684563758389,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5586.684563758389,
+        "endMs": 5827.489932885906,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5827.489932885906,
+        "endMs": 6068.295302013423,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6068.295302013423,
+        "endMs": 6309.100671140939,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6309.100671140939,
+        "endMs": 6549.906040268455,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6549.906040268455,
+        "endMs": 6790.711409395973,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6790.711409395973,
+        "endMs": 7031.516778523489,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7031.516778523489,
+        "endMs": 7176,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我会把窗边的灯拍下来，再给她留一句话：今年先替你喝掉这杯，明年记得请客。": {
+    "durationMs": 8016,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 233.02325581395345,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 233.02325581395345,
+        "endMs": 466.0465116279069,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 466.0465116279069,
+        "endMs": 699.0697674418603,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 699.0697674418603,
+        "endMs": 932.0930232558138,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 932.0930232558138,
+        "endMs": 1165.1162790697672,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1165.1162790697672,
+        "endMs": 1398.1395348837207,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1398.1395348837207,
+        "endMs": 1631.1627906976742,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1631.1627906976742,
+        "endMs": 1864.1860465116276,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1864.1860465116276,
+        "endMs": 2097.209302325581,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2097.209302325581,
+        "endMs": 2330.2325581395344,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2330.2325581395344,
+        "endMs": 2470.0465116279065,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2470.0465116279065,
+        "endMs": 2703.0697674418598,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2703.0697674418598,
+        "endMs": 2936.0930232558135,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2936.0930232558135,
+        "endMs": 3169.1162790697667,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3169.1162790697667,
+        "endMs": 3402.1395348837204,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3402.1395348837204,
+        "endMs": 3635.1627906976737,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3635.1627906976737,
+        "endMs": 3868.186046511628,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3868.186046511628,
+        "endMs": 4101.209302325581,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4101.209302325581,
+        "endMs": 4241.023255813953,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4241.023255813953,
+        "endMs": 4474.0465116279065,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4474.0465116279065,
+        "endMs": 4707.06976744186,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4707.06976744186,
+        "endMs": 4940.093023255814,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4940.093023255814,
+        "endMs": 5173.116279069767,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5173.116279069767,
+        "endMs": 5406.13953488372,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5406.13953488372,
+        "endMs": 5639.162790697674,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5639.162790697674,
+        "endMs": 5872.186046511628,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5872.186046511628,
+        "endMs": 6105.209302325581,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6105.209302325581,
+        "endMs": 6338.232558139534,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6338.232558139534,
+        "endMs": 6478.0465116279065,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6478.0465116279065,
+        "endMs": 6711.06976744186,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6711.06976744186,
+        "endMs": 6944.093023255814,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6944.093023255814,
+        "endMs": 7177.116279069767,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7177.116279069767,
+        "endMs": 7410.13953488372,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7410.13953488372,
+        "endMs": 7643.162790697674,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7643.162790697674,
+        "endMs": 7876.186046511628,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7876.186046511628,
+        "endMs": 8016,
+        "shape": "closed"
+      }
+    ]
+  },
+  "这样听起来，就像把遗憾改成了一个还没写完的计划。谢谢你帮我想到这个。": {
+    "durationMs": 7584,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 231.21951219512192,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 231.21951219512192,
+        "endMs": 462.43902439024384,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 462.43902439024384,
+        "endMs": 693.6585365853657,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 693.6585365853657,
+        "endMs": 924.8780487804877,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 924.8780487804877,
+        "endMs": 1156.0975609756094,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1156.0975609756094,
+        "endMs": 1294.8292682926826,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1294.8292682926826,
+        "endMs": 1526.0487804878046,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1526.0487804878046,
+        "endMs": 1757.2682926829266,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1757.2682926829266,
+        "endMs": 1988.4878048780483,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1988.4878048780483,
+        "endMs": 2219.70731707317,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2219.70731707317,
+        "endMs": 2450.9268292682923,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2450.9268292682923,
+        "endMs": 2682.146341463414,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2682.146341463414,
+        "endMs": 2913.3658536585363,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2913.3658536585363,
+        "endMs": 3144.585365853658,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3144.585365853658,
+        "endMs": 3375.80487804878,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3375.80487804878,
+        "endMs": 3607.024390243902,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3607.024390243902,
+        "endMs": 3838.2439024390246,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3838.2439024390246,
+        "endMs": 4069.463414634146,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4069.463414634146,
+        "endMs": 4300.682926829268,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4300.682926829268,
+        "endMs": 4531.90243902439,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4531.90243902439,
+        "endMs": 4763.121951219512,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4763.121951219512,
+        "endMs": 4994.341463414634,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4994.341463414634,
+        "endMs": 5225.560975609756,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5225.560975609756,
+        "endMs": 5364.292682926829,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5364.292682926829,
+        "endMs": 5595.512195121951,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5595.512195121951,
+        "endMs": 5826.731707317073,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5826.731707317073,
+        "endMs": 6057.951219512194,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6057.951219512194,
+        "endMs": 6289.170731707317,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6289.170731707317,
+        "endMs": 6520.390243902439,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6520.390243902439,
+        "endMs": 6751.609756097561,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6751.609756097561,
+        "endMs": 6982.829268292682,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6982.829268292682,
+        "endMs": 7214.048780487805,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7214.048780487805,
+        "endMs": 7445.268292682927,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7445.268292682927,
+        "endMs": 7584,
+        "shape": "closed"
+      }
+    ]
+  },
+  "下一站可能是北边的海。我一直想拍冬天没有游客的码头，和清晨第一班渡轮。": {
+    "durationMs": 8304,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 245.68047337278102,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 245.68047337278102,
+        "endMs": 491.36094674556205,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 491.36094674556205,
+        "endMs": 737.0414201183431,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 737.0414201183431,
+        "endMs": 982.7218934911241,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 982.7218934911241,
+        "endMs": 1228.4023668639052,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1228.4023668639052,
+        "endMs": 1474.0828402366863,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1474.0828402366863,
+        "endMs": 1719.7633136094673,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1719.7633136094673,
+        "endMs": 1965.4437869822482,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1965.4437869822482,
+        "endMs": 2211.1242603550295,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2211.1242603550295,
+        "endMs": 2456.8047337278103,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2456.8047337278103,
+        "endMs": 2604.2130177514787,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2604.2130177514787,
+        "endMs": 2849.8934911242595,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2849.8934911242595,
+        "endMs": 3095.5739644970413,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3095.5739644970413,
+        "endMs": 3341.254437869822,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3341.254437869822,
+        "endMs": 3586.934911242603,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3586.934911242603,
+        "endMs": 3832.615384615384,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3832.615384615384,
+        "endMs": 4078.295857988165,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4078.295857988165,
+        "endMs": 4323.9763313609465,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4323.9763313609465,
+        "endMs": 4569.656804733727,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4569.656804733727,
+        "endMs": 4815.337278106508,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4815.337278106508,
+        "endMs": 5061.01775147929,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 5061.01775147929,
+        "endMs": 5306.698224852071,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5306.698224852071,
+        "endMs": 5552.378698224852,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5552.378698224852,
+        "endMs": 5798.0591715976325,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5798.0591715976325,
+        "endMs": 6043.739644970414,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 6043.739644970414,
+        "endMs": 6191.1479289940835,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6191.1479289940835,
+        "endMs": 6436.828402366864,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6436.828402366864,
+        "endMs": 6682.508875739645,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6682.508875739645,
+        "endMs": 6928.189349112426,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6928.189349112426,
+        "endMs": 7173.869822485207,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7173.869822485207,
+        "endMs": 7419.550295857988,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7419.550295857988,
+        "endMs": 7665.230769230769,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7665.230769230769,
+        "endMs": 7910.91124260355,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7910.91124260355,
+        "endMs": 8156.59171597633,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 8156.59171597633,
+        "endMs": 8304,
+        "shape": "closed"
+      }
+    ]
+  },
+  "不过我已经学会不把行程排得太满。好的照片有时候在计划之外，好的相遇也是。": {
+    "durationMs": 8808,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 253.10344827586204,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 253.10344827586204,
+        "endMs": 506.20689655172407,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 506.20689655172407,
+        "endMs": 759.3103448275862,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 759.3103448275862,
+        "endMs": 1012.4137931034481,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 1012.4137931034481,
+        "endMs": 1265.5172413793102,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1265.5172413793102,
+        "endMs": 1518.6206896551723,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1518.6206896551723,
+        "endMs": 1771.7241379310342,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1771.7241379310342,
+        "endMs": 2024.8275862068963,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 2024.8275862068963,
+        "endMs": 2277.931034482758,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2277.931034482758,
+        "endMs": 2531.0344827586205,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2531.0344827586205,
+        "endMs": 2784.1379310344823,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2784.1379310344823,
+        "endMs": 3037.2413793103447,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 3037.2413793103447,
+        "endMs": 3290.3448275862065,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3290.3448275862065,
+        "endMs": 3543.4482758620684,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3543.4482758620684,
+        "endMs": 3796.5517241379307,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3796.5517241379307,
+        "endMs": 3948.413793103448,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3948.413793103448,
+        "endMs": 4201.51724137931,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4201.51724137931,
+        "endMs": 4454.620689655172,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4454.620689655172,
+        "endMs": 4707.724137931034,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4707.724137931034,
+        "endMs": 4960.827586206897,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4960.827586206897,
+        "endMs": 5213.931034482759,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 5213.931034482759,
+        "endMs": 5467.0344827586205,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5467.0344827586205,
+        "endMs": 5720.137931034482,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5720.137931034482,
+        "endMs": 5973.241379310344,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5973.241379310344,
+        "endMs": 6226.3448275862065,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 6226.3448275862065,
+        "endMs": 6479.448275862069,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6479.448275862069,
+        "endMs": 6732.55172413793,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6732.55172413793,
+        "endMs": 6985.655172413793,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6985.655172413793,
+        "endMs": 7137.51724137931,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 7137.51724137931,
+        "endMs": 7390.620689655172,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7390.620689655172,
+        "endMs": 7643.724137931034,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7643.724137931034,
+        "endMs": 7896.827586206897,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7896.827586206897,
+        "endMs": 8149.931034482758,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 8149.931034482758,
+        "endMs": 8403.03448275862,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 8403.03448275862,
+        "endMs": 8656.137931034482,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8656.137931034482,
+        "endMs": 8808,
+        "shape": "closed"
+      }
+    ]
+  },
+  "如果让你选，你会去一个完全陌生的地方，还是回到一个曾经很喜欢的地方？": {
+    "durationMs": 7224,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 220.24390243902437,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 220.24390243902437,
+        "endMs": 440.48780487804873,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 440.48780487804873,
+        "endMs": 660.7317073170731,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 660.7317073170731,
+        "endMs": 880.9756097560975,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 880.9756097560975,
+        "endMs": 1101.2195121951218,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1101.2195121951218,
+        "endMs": 1233.3658536585363,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1233.3658536585363,
+        "endMs": 1453.6097560975606,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1453.6097560975606,
+        "endMs": 1673.853658536585,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1673.853658536585,
+        "endMs": 1894.0975609756094,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1894.0975609756094,
+        "endMs": 2114.341463414634,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2114.341463414634,
+        "endMs": 2334.585365853658,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2334.585365853658,
+        "endMs": 2554.829268292682,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2554.829268292682,
+        "endMs": 2775.073170731707,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2775.073170731707,
+        "endMs": 2995.317073170731,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 2995.317073170731,
+        "endMs": 3215.5609756097556,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3215.5609756097556,
+        "endMs": 3435.8048780487798,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3435.8048780487798,
+        "endMs": 3656.048780487805,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3656.048780487805,
+        "endMs": 3876.2926829268285,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 3876.2926829268285,
+        "endMs": 4008.4390243902444,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4008.4390243902444,
+        "endMs": 4228.682926829268,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4228.682926829268,
+        "endMs": 4448.926829268293,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4448.926829268293,
+        "endMs": 4669.170731707317,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4669.170731707317,
+        "endMs": 4889.414634146342,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 4889.414634146342,
+        "endMs": 5109.658536585365,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5109.658536585365,
+        "endMs": 5329.90243902439,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5329.90243902439,
+        "endMs": 5550.1463414634145,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5550.1463414634145,
+        "endMs": 5770.390243902439,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 5770.390243902439,
+        "endMs": 5990.634146341463,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 5990.634146341463,
+        "endMs": 6210.878048780488,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6210.878048780488,
+        "endMs": 6431.121951219512,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6431.121951219512,
+        "endMs": 6651.365853658536,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6651.365853658536,
+        "endMs": 6871.60975609756,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 6871.60975609756,
+        "endMs": 7091.8536585365855,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7091.8536585365855,
+        "endMs": 7224,
+        "shape": "closed"
+      }
+    ]
+  },
+  "那就再坐一小会儿吧。不一定要一直说话，听着雨声也很好。": {
+    "durationMs": 6144,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 238.1395348837209,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 238.1395348837209,
+        "endMs": 476.2790697674418,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 476.2790697674418,
+        "endMs": 714.4186046511627,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 714.4186046511627,
+        "endMs": 952.5581395348836,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 952.5581395348836,
+        "endMs": 1190.6976744186045,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1190.6976744186045,
+        "endMs": 1428.8372093023254,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1428.8372093023254,
+        "endMs": 1666.9767441860463,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1666.9767441860463,
+        "endMs": 1905.1162790697672,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1905.1162790697672,
+        "endMs": 2143.255813953488,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2143.255813953488,
+        "endMs": 2286.1395348837204,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2286.1395348837204,
+        "endMs": 2524.2790697674413,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2524.2790697674413,
+        "endMs": 2762.4186046511622,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2762.4186046511622,
+        "endMs": 3000.558139534883,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3000.558139534883,
+        "endMs": 3238.697674418604,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3238.697674418604,
+        "endMs": 3476.837209302325,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3476.837209302325,
+        "endMs": 3714.976744186046,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3714.976744186046,
+        "endMs": 3953.116279069767,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3953.116279069767,
+        "endMs": 4191.2558139534885,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4191.2558139534885,
+        "endMs": 4334.139534883721,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4334.139534883721,
+        "endMs": 4572.279069767442,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4572.279069767442,
+        "endMs": 4810.418604651162,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4810.418604651162,
+        "endMs": 5048.558139534884,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5048.558139534884,
+        "endMs": 5286.697674418605,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5286.697674418605,
+        "endMs": 5524.837209302325,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5524.837209302325,
+        "endMs": 5762.976744186047,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5762.976744186047,
+        "endMs": 6001.116279069767,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6001.116279069767,
+        "endMs": 6144,
+        "shape": "closed"
+      }
+    ]
+  },
+  "以前我觉得，难过的时候一定要把原因解释清楚。现在才知道，有人愿意留下来，本身就是一种回答。": {
+    "durationMs": 10248,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 238.3255813953488,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 238.3255813953488,
+        "endMs": 476.6511627906976,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 476.6511627906976,
+        "endMs": 714.9767441860464,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 714.9767441860464,
+        "endMs": 953.3023255813952,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 953.3023255813952,
+        "endMs": 1191.627906976744,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1191.627906976744,
+        "endMs": 1334.6232558139532,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1334.6232558139532,
+        "endMs": 1572.948837209302,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1572.948837209302,
+        "endMs": 1811.274418604651,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1811.274418604651,
+        "endMs": 2049.5999999999995,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2049.5999999999995,
+        "endMs": 2287.925581395348,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2287.925581395348,
+        "endMs": 2526.2511627906974,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2526.2511627906974,
+        "endMs": 2764.576744186046,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2764.576744186046,
+        "endMs": 3002.902325581395,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3002.902325581395,
+        "endMs": 3241.2279069767437,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3241.2279069767437,
+        "endMs": 3479.5534883720925,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3479.5534883720925,
+        "endMs": 3717.879069767441,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3717.879069767441,
+        "endMs": 3956.20465116279,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3956.20465116279,
+        "endMs": 4194.530232558139,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4194.530232558139,
+        "endMs": 4432.855813953488,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4432.855813953488,
+        "endMs": 4671.181395348837,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4671.181395348837,
+        "endMs": 4909.5069767441855,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4909.5069767441855,
+        "endMs": 5052.502325581395,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5052.502325581395,
+        "endMs": 5290.827906976744,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5290.827906976744,
+        "endMs": 5529.153488372092,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5529.153488372092,
+        "endMs": 5767.479069767442,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5767.479069767442,
+        "endMs": 6005.804651162791,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6005.804651162791,
+        "endMs": 6244.130232558139,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6244.130232558139,
+        "endMs": 6387.125581395349,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6387.125581395349,
+        "endMs": 6625.451162790697,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6625.451162790697,
+        "endMs": 6863.776744186046,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6863.776744186046,
+        "endMs": 7102.102325581395,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7102.102325581395,
+        "endMs": 7340.4279069767435,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7340.4279069767435,
+        "endMs": 7578.753488372093,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7578.753488372093,
+        "endMs": 7817.079069767441,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7817.079069767441,
+        "endMs": 8055.40465116279,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 8055.40465116279,
+        "endMs": 8198.4,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8198.4,
+        "endMs": 8436.725581395349,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8436.725581395349,
+        "endMs": 8675.051162790698,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8675.051162790698,
+        "endMs": 8913.376744186045,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 8913.376744186045,
+        "endMs": 9151.702325581395,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 9151.702325581395,
+        "endMs": 9390.027906976744,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 41,
+        "startMs": 9390.027906976744,
+        "endMs": 9628.353488372093,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 42,
+        "startMs": 9628.353488372093,
+        "endMs": 9866.679069767442,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 43,
+        "startMs": 9866.679069767442,
+        "endMs": 10105.00465116279,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 44,
+        "startMs": 10105.00465116279,
+        "endMs": 10248,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你看，杯子里的热气又把玻璃蒙上了一层。这个夜晚好像没有刚才那么冷了。": {
+    "durationMs": 7944,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 242.19512195121948,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 242.19512195121948,
+        "endMs": 484.39024390243895,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 484.39024390243895,
+        "endMs": 629.7073170731707,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 629.7073170731707,
+        "endMs": 871.9024390243901,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 871.9024390243901,
+        "endMs": 1114.0975609756094,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1114.0975609756094,
+        "endMs": 1356.292682926829,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1356.292682926829,
+        "endMs": 1598.4878048780483,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1598.4878048780483,
+        "endMs": 1840.682926829268,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1840.682926829268,
+        "endMs": 2082.8780487804875,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2082.8780487804875,
+        "endMs": 2325.073170731707,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2325.073170731707,
+        "endMs": 2567.2682926829266,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2567.2682926829266,
+        "endMs": 2809.463414634146,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2809.463414634146,
+        "endMs": 3051.6585365853653,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3051.6585365853653,
+        "endMs": 3293.8536585365846,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3293.8536585365846,
+        "endMs": 3536.0487804878044,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3536.0487804878044,
+        "endMs": 3778.2439024390237,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3778.2439024390237,
+        "endMs": 4020.439024390244,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4020.439024390244,
+        "endMs": 4262.634146341463,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4262.634146341463,
+        "endMs": 4407.951219512195,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4407.951219512195,
+        "endMs": 4650.1463414634145,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4650.1463414634145,
+        "endMs": 4892.341463414634,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4892.341463414634,
+        "endMs": 5134.536585365854,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5134.536585365854,
+        "endMs": 5376.731707317073,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5376.731707317073,
+        "endMs": 5618.926829268293,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5618.926829268293,
+        "endMs": 5861.121951219512,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5861.121951219512,
+        "endMs": 6103.317073170731,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6103.317073170731,
+        "endMs": 6345.512195121951,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6345.512195121951,
+        "endMs": 6587.70731707317,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6587.70731707317,
+        "endMs": 6829.90243902439,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6829.90243902439,
+        "endMs": 7072.09756097561,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7072.09756097561,
+        "endMs": 7314.292682926829,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7314.292682926829,
+        "endMs": 7556.487804878048,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7556.487804878048,
+        "endMs": 7798.682926829269,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7798.682926829269,
+        "endMs": 7944,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你看，玻璃上的雨线慢下来了。对面的路灯终于不再像一团散开的光。": {
+    "durationMs": 7272,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 244.0268456375839,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 244.0268456375839,
+        "endMs": 488.0536912751678,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 488.0536912751678,
+        "endMs": 634.4697986577181,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 634.4697986577181,
+        "endMs": 878.4966442953021,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 878.4966442953021,
+        "endMs": 1122.5234899328857,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1122.5234899328857,
+        "endMs": 1366.5503355704695,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1366.5503355704695,
+        "endMs": 1610.5771812080536,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1610.5771812080536,
+        "endMs": 1854.6040268456372,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1854.6040268456372,
+        "endMs": 2098.630872483221,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2098.630872483221,
+        "endMs": 2342.6577181208054,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2342.6577181208054,
+        "endMs": 2586.6845637583892,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2586.6845637583892,
+        "endMs": 2830.711409395973,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2830.711409395973,
+        "endMs": 3074.738255033557,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3074.738255033557,
+        "endMs": 3221.1543624161072,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3221.1543624161072,
+        "endMs": 3465.181208053691,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3465.181208053691,
+        "endMs": 3709.2080536912745,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3709.2080536912745,
+        "endMs": 3953.2348993288592,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3953.2348993288592,
+        "endMs": 4197.261744966442,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4197.261744966442,
+        "endMs": 4441.2885906040265,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4441.2885906040265,
+        "endMs": 4685.315436241611,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4685.315436241611,
+        "endMs": 4929.342281879194,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4929.342281879194,
+        "endMs": 5173.3691275167785,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5173.3691275167785,
+        "endMs": 5417.395973154362,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5417.395973154362,
+        "endMs": 5661.422818791946,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5661.422818791946,
+        "endMs": 5905.44966442953,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5905.44966442953,
+        "endMs": 6149.476510067114,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6149.476510067114,
+        "endMs": 6393.503355704697,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6393.503355704697,
+        "endMs": 6637.5302013422815,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6637.5302013422815,
+        "endMs": 6881.557046979866,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6881.557046979866,
+        "endMs": 7125.583892617449,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7125.583892617449,
+        "endMs": 7272,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我想她今晚大概不会来了。不过，我已经不想把这个夜晚只留给等待。": {
+    "durationMs": 7680,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 257.71812080536915,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 257.71812080536915,
+        "endMs": 515.4362416107383,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 515.4362416107383,
+        "endMs": 773.1543624161073,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 773.1543624161073,
+        "endMs": 1030.8724832214766,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 1030.8724832214766,
+        "endMs": 1288.5906040268458,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1288.5906040268458,
+        "endMs": 1546.3087248322147,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1546.3087248322147,
+        "endMs": 1804.0268456375838,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1804.0268456375838,
+        "endMs": 2061.7449664429532,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 2061.7449664429532,
+        "endMs": 2319.463087248322,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2319.463087248322,
+        "endMs": 2577.1812080536915,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2577.1812080536915,
+        "endMs": 2834.89932885906,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2834.89932885906,
+        "endMs": 2989.530201342282,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2989.530201342282,
+        "endMs": 3247.248322147651,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3247.248322147651,
+        "endMs": 3504.96644295302,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3504.96644295302,
+        "endMs": 3659.5973154362414,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3659.5973154362414,
+        "endMs": 3917.3154362416103,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3917.3154362416103,
+        "endMs": 4175.03355704698,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4175.03355704698,
+        "endMs": 4432.751677852349,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4432.751677852349,
+        "endMs": 4690.4697986577185,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4690.4697986577185,
+        "endMs": 4948.187919463087,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4948.187919463087,
+        "endMs": 5205.906040268455,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 5205.906040268455,
+        "endMs": 5463.624161073825,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5463.624161073825,
+        "endMs": 5721.342281879194,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5721.342281879194,
+        "endMs": 5979.060402684564,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5979.060402684564,
+        "endMs": 6236.778523489932,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 6236.778523489932,
+        "endMs": 6494.496644295302,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6494.496644295302,
+        "endMs": 6752.214765100671,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6752.214765100671,
+        "endMs": 7009.93288590604,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 7009.93288590604,
+        "endMs": 7267.6510067114095,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 7267.6510067114095,
+        "endMs": 7525.369127516778,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 7525.369127516778,
+        "endMs": 7680,
+        "shape": "closed"
+      }
+    ]
+  },
+  "陪我走到门口吧？我要给雨后的街道拍一张照片，也给今天留一个新的结尾。": {
+    "durationMs": 7608,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 231.95121951219508,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 231.95121951219508,
+        "endMs": 463.90243902439016,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 463.90243902439016,
+        "endMs": 695.8536585365853,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 695.8536585365853,
+        "endMs": 927.8048780487803,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 927.8048780487803,
+        "endMs": 1159.7560975609754,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1159.7560975609754,
+        "endMs": 1391.7073170731705,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1391.7073170731705,
+        "endMs": 1623.6585365853657,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1623.6585365853657,
+        "endMs": 1762.8292682926826,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1762.8292682926826,
+        "endMs": 1994.7804878048778,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1994.7804878048778,
+        "endMs": 2226.7317073170725,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2226.7317073170725,
+        "endMs": 2458.682926829268,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2458.682926829268,
+        "endMs": 2690.634146341463,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2690.634146341463,
+        "endMs": 2922.585365853658,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2922.585365853658,
+        "endMs": 3154.536585365853,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3154.536585365853,
+        "endMs": 3386.4878048780483,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3386.4878048780483,
+        "endMs": 3618.4390243902435,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3618.4390243902435,
+        "endMs": 3850.390243902439,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3850.390243902439,
+        "endMs": 4082.3414634146334,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4082.3414634146334,
+        "endMs": 4314.292682926829,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4314.292682926829,
+        "endMs": 4546.243902439024,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4546.243902439024,
+        "endMs": 4778.195121951219,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4778.195121951219,
+        "endMs": 4917.365853658537,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4917.365853658537,
+        "endMs": 5149.317073170732,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5149.317073170732,
+        "endMs": 5381.268292682927,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5381.268292682927,
+        "endMs": 5613.219512195122,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5613.219512195122,
+        "endMs": 5845.170731707317,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5845.170731707317,
+        "endMs": 6077.121951219512,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6077.121951219512,
+        "endMs": 6309.073170731707,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6309.073170731707,
+        "endMs": 6541.024390243902,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6541.024390243902,
+        "endMs": 6772.975609756098,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6772.975609756098,
+        "endMs": 7004.926829268292,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7004.926829268292,
+        "endMs": 7236.878048780488,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7236.878048780488,
+        "endMs": 7468.829268292683,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7468.829268292683,
+        "endMs": 7608,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我明白你的意思。旅行久了，我也会遇到很多不知道该怎么回答的时刻。": {
+    "durationMs": 7152,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 232.20779220779218,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 232.20779220779218,
+        "endMs": 464.41558441558436,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 464.41558441558436,
+        "endMs": 696.6233766233767,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 696.6233766233767,
+        "endMs": 928.8311688311687,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 928.8311688311687,
+        "endMs": 1161.0389610389611,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1161.0389610389611,
+        "endMs": 1393.2467532467533,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1393.2467532467533,
+        "endMs": 1625.4545454545455,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1625.4545454545455,
+        "endMs": 1764.7792207792206,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1764.7792207792206,
+        "endMs": 1996.9870129870128,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1996.9870129870128,
+        "endMs": 2229.194805194805,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2229.194805194805,
+        "endMs": 2461.4025974025976,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2461.4025974025976,
+        "endMs": 2693.610389610389,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2693.610389610389,
+        "endMs": 2832.9350649350645,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2832.9350649350645,
+        "endMs": 3065.142857142857,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3065.142857142857,
+        "endMs": 3297.3506493506493,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3297.3506493506493,
+        "endMs": 3529.5584415584412,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3529.5584415584412,
+        "endMs": 3761.7662337662337,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3761.7662337662337,
+        "endMs": 3993.9740259740256,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 3993.9740259740256,
+        "endMs": 4226.181818181818,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4226.181818181818,
+        "endMs": 4458.38961038961,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4458.38961038961,
+        "endMs": 4690.597402597402,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4690.597402597402,
+        "endMs": 4922.805194805195,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4922.805194805195,
+        "endMs": 5155.012987012987,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5155.012987012987,
+        "endMs": 5387.220779220778,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5387.220779220778,
+        "endMs": 5619.428571428572,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5619.428571428572,
+        "endMs": 5851.636363636363,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5851.636363636363,
+        "endMs": 6083.8441558441555,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6083.8441558441555,
+        "endMs": 6316.051948051948,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6316.051948051948,
+        "endMs": 6548.259740259739,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6548.259740259739,
+        "endMs": 6780.467532467533,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6780.467532467533,
+        "endMs": 7012.675324675324,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 7012.675324675324,
+        "endMs": 7152,
+        "shape": "closed"
+      }
+    ]
+  },
+  "后来我发现，不用马上替所有事情找一个结论。像今晚，能让自己安静地坐一会儿，就已经很难得。": {
+    "durationMs": 9792,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 233.14285714285708,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 233.14285714285708,
+        "endMs": 466.28571428571416,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 466.28571428571416,
+        "endMs": 699.4285714285712,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 699.4285714285712,
+        "endMs": 932.5714285714283,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 932.5714285714283,
+        "endMs": 1165.7142857142856,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1165.7142857142856,
+        "endMs": 1305.5999999999997,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1305.5999999999997,
+        "endMs": 1538.7428571428568,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1538.7428571428568,
+        "endMs": 1771.885714285714,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1771.885714285714,
+        "endMs": 2005.028571428571,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2005.028571428571,
+        "endMs": 2238.1714285714284,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2238.1714285714284,
+        "endMs": 2471.3142857142852,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2471.3142857142852,
+        "endMs": 2704.4571428571426,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2704.4571428571426,
+        "endMs": 2937.5999999999995,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2937.5999999999995,
+        "endMs": 3170.742857142857,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3170.742857142857,
+        "endMs": 3403.8857142857137,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3403.8857142857137,
+        "endMs": 3637.0285714285706,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3637.0285714285706,
+        "endMs": 3870.1714285714284,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3870.1714285714284,
+        "endMs": 4103.314285714286,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4103.314285714286,
+        "endMs": 4336.457142857143,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4336.457142857143,
+        "endMs": 4569.599999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4569.599999999999,
+        "endMs": 4709.4857142857145,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4709.4857142857145,
+        "endMs": 4942.628571428571,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4942.628571428571,
+        "endMs": 5175.771428571428,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5175.771428571428,
+        "endMs": 5408.914285714285,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5408.914285714285,
+        "endMs": 5548.8,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5548.8,
+        "endMs": 5781.942857142857,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5781.942857142857,
+        "endMs": 6015.085714285715,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6015.085714285715,
+        "endMs": 6248.228571428571,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6248.228571428571,
+        "endMs": 6481.371428571429,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6481.371428571429,
+        "endMs": 6714.5142857142855,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6714.5142857142855,
+        "endMs": 6947.657142857143,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6947.657142857143,
+        "endMs": 7180.799999999999,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 7180.799999999999,
+        "endMs": 7413.942857142857,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 7413.942857142857,
+        "endMs": 7647.085714285714,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7647.085714285714,
+        "endMs": 7880.228571428571,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7880.228571428571,
+        "endMs": 8113.371428571428,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 8113.371428571428,
+        "endMs": 8253.257142857143,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 8253.257142857143,
+        "endMs": 8486.4,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8486.4,
+        "endMs": 8719.542857142857,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 8719.542857142857,
+        "endMs": 8952.685714285713,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 8952.685714285713,
+        "endMs": 9185.828571428572,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 41,
+        "startMs": 9185.828571428572,
+        "endMs": 9418.971428571429,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 42,
+        "startMs": 9418.971428571429,
+        "endMs": 9652.114285714286,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 43,
+        "startMs": 9652.114285714286,
+        "endMs": 9792,
+        "shape": "closed"
+      }
+    ]
+  },
+  "再陪我喝完这杯吧。等雨小一点，我们可以一起去看看街上的倒影。": {
+    "durationMs": 6792,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 235.83333333333334,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 235.83333333333334,
+        "endMs": 471.6666666666667,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 471.6666666666667,
+        "endMs": 707.4999999999999,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 707.4999999999999,
+        "endMs": 943.3333333333334,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 943.3333333333334,
+        "endMs": 1179.1666666666665,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1179.1666666666665,
+        "endMs": 1414.9999999999998,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1414.9999999999998,
+        "endMs": 1650.8333333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1650.8333333333333,
+        "endMs": 1886.6666666666667,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1886.6666666666667,
+        "endMs": 2028.1666666666665,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2028.1666666666665,
+        "endMs": 2264,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2264,
+        "endMs": 2499.833333333333,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2499.833333333333,
+        "endMs": 2735.6666666666665,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2735.6666666666665,
+        "endMs": 2971.5,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2971.5,
+        "endMs": 3207.333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3207.333333333333,
+        "endMs": 3348.833333333333,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3348.833333333333,
+        "endMs": 3584.666666666667,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3584.666666666667,
+        "endMs": 3820.5,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3820.5,
+        "endMs": 4056.333333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4056.333333333333,
+        "endMs": 4292.166666666666,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4292.166666666666,
+        "endMs": 4528,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4528,
+        "endMs": 4763.833333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4763.833333333333,
+        "endMs": 4999.666666666666,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4999.666666666666,
+        "endMs": 5235.499999999999,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5235.499999999999,
+        "endMs": 5471.333333333333,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5471.333333333333,
+        "endMs": 5707.166666666666,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5707.166666666666,
+        "endMs": 5943,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5943,
+        "endMs": 6178.833333333333,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6178.833333333333,
+        "endMs": 6414.666666666666,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6414.666666666666,
+        "endMs": 6650.5,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6650.5,
+        "endMs": 6792,
+        "shape": "closed"
+      }
+    ]
+  },
+  "我在听。雨声有点大，可你说的话我没有错过。": {
+    "durationMs": 5616,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 283.6363636363636,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 283.6363636363636,
+        "endMs": 567.2727272727273,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 567.2727272727273,
+        "endMs": 850.9090909090909,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 850.9090909090909,
+        "endMs": 1021.0909090909091,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 1021.0909090909091,
+        "endMs": 1304.7272727272725,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1304.7272727272725,
+        "endMs": 1588.3636363636363,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1588.3636363636363,
+        "endMs": 1872,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1872,
+        "endMs": 2155.6363636363635,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 2155.6363636363635,
+        "endMs": 2439.272727272727,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2439.272727272727,
+        "endMs": 2609.454545454545,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2609.454545454545,
+        "endMs": 2893.090909090909,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2893.090909090909,
+        "endMs": 3176.7272727272725,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 3176.7272727272725,
+        "endMs": 3460.363636363636,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3460.363636363636,
+        "endMs": 3744,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3744,
+        "endMs": 4027.6363636363635,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 4027.6363636363635,
+        "endMs": 4311.272727272727,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 4311.272727272727,
+        "endMs": 4594.909090909091,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 4594.909090909091,
+        "endMs": 4878.545454545454,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4878.545454545454,
+        "endMs": 5162.181818181818,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 5162.181818181818,
+        "endMs": 5445.818181818181,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 5445.818181818181,
+        "endMs": 5616,
+        "shape": "closed"
+      }
+    ]
+  },
+  "有时我会把这样的片刻拍下来：没有特别的事情发生，只是一个人愿意向另一个人说说自己的想法。": {
+    "durationMs": 9216,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 215.3271028037383,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 215.3271028037383,
+        "endMs": 430.6542056074766,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 430.6542056074766,
+        "endMs": 645.9813084112149,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 645.9813084112149,
+        "endMs": 861.3084112149533,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 861.3084112149533,
+        "endMs": 1076.6355140186915,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1076.6355140186915,
+        "endMs": 1291.9626168224297,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1291.9626168224297,
+        "endMs": 1507.289719626168,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1507.289719626168,
+        "endMs": 1722.6168224299065,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1722.6168224299065,
+        "endMs": 1937.9439252336447,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 1937.9439252336447,
+        "endMs": 2153.271028037383,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2153.271028037383,
+        "endMs": 2368.598130841121,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2368.598130841121,
+        "endMs": 2583.9252336448594,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2583.9252336448594,
+        "endMs": 2799.252336448598,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 2799.252336448598,
+        "endMs": 2928.4485981308408,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 2928.4485981308408,
+        "endMs": 3143.775700934579,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3143.775700934579,
+        "endMs": 3359.102803738317,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3359.102803738317,
+        "endMs": 3574.429906542056,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3574.429906542056,
+        "endMs": 3789.7570093457944,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 3789.7570093457944,
+        "endMs": 4005.0841121495328,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4005.0841121495328,
+        "endMs": 4220.411214953271,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4220.411214953271,
+        "endMs": 4435.738317757009,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4435.738317757009,
+        "endMs": 4651.065420560747,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 4651.065420560747,
+        "endMs": 4866.392523364486,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 4866.392523364486,
+        "endMs": 4995.58878504673,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 4995.58878504673,
+        "endMs": 5210.915887850468,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5210.915887850468,
+        "endMs": 5426.242990654206,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 5426.242990654206,
+        "endMs": 5641.570093457944,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 5641.570093457944,
+        "endMs": 5856.8971962616815,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 5856.8971962616815,
+        "endMs": 6072.22429906542,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6072.22429906542,
+        "endMs": 6287.551401869158,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 30,
+        "startMs": 6287.551401869158,
+        "endMs": 6502.878504672897,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 31,
+        "startMs": 6502.878504672897,
+        "endMs": 6718.205607476635,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 32,
+        "startMs": 6718.205607476635,
+        "endMs": 6933.532710280374,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 33,
+        "startMs": 6933.532710280374,
+        "endMs": 7148.859813084112,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 34,
+        "startMs": 7148.859813084112,
+        "endMs": 7364.186915887851,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 35,
+        "startMs": 7364.186915887851,
+        "endMs": 7579.514018691589,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 36,
+        "startMs": 7579.514018691589,
+        "endMs": 7794.841121495327,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 37,
+        "startMs": 7794.841121495327,
+        "endMs": 8010.1682242990655,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 38,
+        "startMs": 8010.1682242990655,
+        "endMs": 8225.495327102803,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 39,
+        "startMs": 8225.495327102803,
+        "endMs": 8440.822429906542,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 40,
+        "startMs": 8440.822429906542,
+        "endMs": 8656.14953271028,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 41,
+        "startMs": 8656.14953271028,
+        "endMs": 8871.476635514018,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 42,
+        "startMs": 8871.476635514018,
+        "endMs": 9086.803738317756,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 43,
+        "startMs": 9086.803738317756,
+        "endMs": 9216,
+        "shape": "closed"
+      }
+    ]
+  },
+  "你愿意的话，可以继续说。或者，让我给你看一张我最喜欢的照片。": {
+    "durationMs": 7056,
+    "source": "estimated-pinyin",
+    "cues": [
+      {
+        "charIndex": 0,
+        "startMs": 0,
+        "endMs": 248.45070422535213,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 1,
+        "startMs": 248.45070422535213,
+        "endMs": 496.90140845070425,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 2,
+        "startMs": 496.90140845070425,
+        "endMs": 745.3521126760564,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 3,
+        "startMs": 745.3521126760564,
+        "endMs": 993.8028169014085,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 4,
+        "startMs": 993.8028169014085,
+        "endMs": 1242.2535211267607,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 5,
+        "startMs": 1242.2535211267607,
+        "endMs": 1391.3239436619717,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 6,
+        "startMs": 1391.3239436619717,
+        "endMs": 1639.774647887324,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 7,
+        "startMs": 1639.774647887324,
+        "endMs": 1888.2253521126759,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 8,
+        "startMs": 1888.2253521126759,
+        "endMs": 2136.676056338028,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 9,
+        "startMs": 2136.676056338028,
+        "endMs": 2385.1267605633802,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 10,
+        "startMs": 2385.1267605633802,
+        "endMs": 2633.5774647887324,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 11,
+        "startMs": 2633.5774647887324,
+        "endMs": 2782.6478873239435,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 12,
+        "startMs": 2782.6478873239435,
+        "endMs": 3031.0985915492956,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 13,
+        "startMs": 3031.0985915492956,
+        "endMs": 3279.549295774648,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 14,
+        "startMs": 3279.549295774648,
+        "endMs": 3428.619718309859,
+        "shape": "closed"
+      },
+      {
+        "charIndex": 15,
+        "startMs": 3428.619718309859,
+        "endMs": 3677.070422535211,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 16,
+        "startMs": 3677.070422535211,
+        "endMs": 3925.5211267605637,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 17,
+        "startMs": 3925.5211267605637,
+        "endMs": 4173.9718309859145,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 18,
+        "startMs": 4173.9718309859145,
+        "endMs": 4422.422535211267,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 19,
+        "startMs": 4422.422535211267,
+        "endMs": 4670.873239436619,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 20,
+        "startMs": 4670.873239436619,
+        "endMs": 4919.3239436619715,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 21,
+        "startMs": 4919.3239436619715,
+        "endMs": 5167.774647887323,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 22,
+        "startMs": 5167.774647887323,
+        "endMs": 5416.225352112676,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 23,
+        "startMs": 5416.225352112676,
+        "endMs": 5664.676056338028,
+        "shape": "oo"
+      },
+      {
+        "charIndex": 24,
+        "startMs": 5664.676056338028,
+        "endMs": 5913.12676056338,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 25,
+        "startMs": 5913.12676056338,
+        "endMs": 6161.577464788732,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 26,
+        "startMs": 6161.577464788732,
+        "endMs": 6410.028169014084,
+        "shape": "ee"
+      },
+      {
+        "charIndex": 27,
+        "startMs": 6410.028169014084,
+        "endMs": 6658.478873239436,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 28,
+        "startMs": 6658.478873239436,
+        "endMs": 6906.929577464788,
+        "shape": "aa"
+      },
+      {
+        "charIndex": 29,
+        "startMs": 6906.929577464788,
+        "endMs": 7056,
+        "shape": "closed"
+      }
+    ]
+  }
+}

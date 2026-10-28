@@ -1,0 +1,54 @@
+{
+  "version": 2,
+  "origin": "Original procedural Three.js Mira scene, original lighthouse illustration, existing Mandarin TTS narration and synthesized ambient noise. No generative AI video service.",
+  "clips": {
+    "memory": {
+      "src": "/video/memory.webm",
+      "fallbackSrc": "/video/memory.mp4",
+      "poster": "/video/memory.jpg",
+      "duration": 8,
+      "title": "海边的那一刻",
+      "narration": "/audio/33289d23ebef.mp3",
+      "narrationDelayMs": 350,
+      "timeline": [
+        {
+          "at": 0.35,
+          "text": "你还记得这张照片。"
+        },
+        {
+          "at": 2.82,
+          "text": "这里没有地名，只有我们当时等到的第一缕光。"
+        },
+        {
+          "at": 7.4,
+          "text": ""
+        }
+      ]
+    },
+    "rain": {
+      "src": "/video/rain.webm",
+      "fallbackSrc": "/video/rain.mp4",
+      "poster": "/video/rain.jpg",
+      "duration": 8,
+      "title": "雨停以后",
+      "narration": "/audio/114f3e794f68.mp3",
+      "narrationDelayMs": 350,
+      "timeline": [
+        {
+          "at": 0.35,
+          "text": "你看，玻璃上的雨线慢下来了。"
+        },
+        {
+          "at": 3.83,
+          "text": "对面的路灯终于不再像一团散开的光。"
+        },
+        {
+          "at": 7.65,
+          "text": "",
+          "effect": "shutter"
+        }
+      ]
+    }
+  },
+  "alphaOverlay": "/video/rain-overlay.webm"
+}

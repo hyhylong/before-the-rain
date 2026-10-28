@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.aws/
+.deployment/
+*.pem
+*.key
+test-results/
+playwright-report/
+artifacts/*.webm
+artifacts/raw/
+artifacts/source.zip
+*.log
+.data/
